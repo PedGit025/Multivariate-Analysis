@@ -1,0 +1,2 @@
+
+A certain bank is creating a model whether an applicant will be approved or not in their loan application based on the applicant’s age (Age), income (Income), and credit card average spending (CCAvg). The dependent variable (Personal Loan) is encoded as 0 or 1 (0-loan not approved, 1-approved). The bank officer is planning to run a Discriminant Analysis in a data set consisting of 5,000 individuals based on bank records.
